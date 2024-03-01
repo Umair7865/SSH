@@ -3,9 +3,8 @@
 ![GitHub Logo](SSH.jpg)
 
 
-=================================
+
              SSH
-=================================
 
 ensure that an SSH agent is running on the server. You can do this by running this command:
 #ssh-add -l
@@ -29,9 +28,4 @@ If you find that an SSH agent is not running, you can start one by running the s
 #eval $(ssh-agent)
 
 
-
-
-=================================
-              SSH
-=================================
 
