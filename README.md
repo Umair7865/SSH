@@ -4,15 +4,13 @@
 
 
 
-             SSH
-
 ensure that an SSH agent is running on the server. You can do this by running this command:
 #ssh-add -l
 
 
 
 => The message "The agent has no identities" indicates that while the SSH agent is running, it currently does not have any SSH private keys loaded into memory for authentication
-#ssh-add ~/.ssh/id_rsa
+        ssh-add ~/.ssh/id_rsa
 
 
 
