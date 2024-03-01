@@ -4,7 +4,7 @@
 
 
 =================================
-                                 SSH
+             SSH
 =================================
 
 ensure that an SSH agent is running on the server. You can do this by running this command:
@@ -32,6 +32,6 @@ If you find that an SSH agent is not running, you can start one by running the s
 
 
 =================================
-                                 SSH
+              SSH
 =================================
 
