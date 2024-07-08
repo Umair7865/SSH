@@ -26,5 +26,5 @@ If you find that an SSH agent is not running, you can start one by running the s
 #eval $(ssh-agent)
 
 
-###8 Easy Steps to Set Up Multiple GitHub Accounts [cheat sheet included]
+### 8 Easy Steps to Set Up Multiple GitHub Accounts [cheat sheet included]
 https://blog.gitguardian.com/8-easy-steps-to-set-up-multiple-git-accounts/
